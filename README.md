@@ -17,12 +17,12 @@
 ```python
 class FelipePanini:
     def __init__(self):
-        self.nome        = "Felipe Panini"
-        self.localidade  = "Campinas, São Paulo 🇧🇷"
-        self.formacao    = "Ciência da Computação @ UniEduK/UniFAJ"
+        self.nome        = "Felipe Panini da Silva"
+        self.localidade  = "Jaguariúna, São Paulo 🇧🇷"
+        self.formacao    = "Inteligência Artificial @ UniFAJ"
         self.foco        = ["Data Engineering", "Machine Learning", "AI"]
         self.ferramentas = ["Python", "SQL", "Power BI", "Excel", "MySQL"]
-        self.trabalhando_em = "Projeto Marcon — ETL pipeline + CNES dashboard"
+        self.trabalhando_em = "Project — ETL pipeline + CNES dashboard"
         self.aprendendo  = ["KNN do zero", "Pipeline ETL com Python", "Visualização de dados"]
         self.curiosidade = "Acredito que todo problema tem uma solução elegante nos dados 📊"
 
@@ -70,7 +70,7 @@ print(me.contato())
 
 | 🔬 Projeto | 📝 Descrição | 🛠️ Stack |
 |:---:|:---:|:---:|
-| **Projeto Marcon** | Pipeline ETL com dados do CNES + Dashboard interativo | Python · MySQL · Power BI |
+| **Project** | Pipeline ETL com dados do CNES + Dashboard interativo | Python · MySQL · Power BI |
 | **Mobile Price Classifier** | Implementação KNN do zero para classificação de preços | Python puro · Scikit-Learn |
 | **GRSA Food Dashboard** | Dashboard de consumo alimentar com relatórios automáticos | Excel · Python · Pandas |
 | **Laminating Tracker** | Rastreamento de volume de corte por máquina por semana | Excel · Python |
@@ -103,7 +103,7 @@ print(me.contato())
 🔨 Construindo .......... Pipeline ETL com dados abertos do CNES (Projeto Marcon)
 🤖 Implementando ........ Algoritmo KNN do zero em Python puro
 📈 Explorando ........... Visualização de dados e dashboards interativos
-🎓 Cursando ............. Ciência da Computação @ UniEduK/UniFAJ
+🎓 Cursando ............. Inteligência Artificial @ UniFAJ
 ```
 
 ---
